@@ -1,0 +1,5 @@
+site_name: Eska Karate Syllabus
+nav:
+  - Home: index.md
+theme:
+  name: material

@@ -1,0 +1,12 @@
+labels:
+  - "syllabus"
+  - "kata"
+  - "anki"
+  - "exercises"
+  - "docs"
+  - "help wanted"
+  - "good first issue"
+  - "enhancement"
+  - "urgent"
+  - "media"
+  - "reference"

@@ -1,0 +1,8 @@
+name: "Heian Shodan"
+japanese_name: "平安初段"
+belt_suggested: ["white", "yellow"]
+origin: "Shotokan"
+movements:
+  - step: 1
+    movement: "Left front stance, left middle block (chudan uke)"
+    japanese: "左前屈立て 中段受け"

@@ -1,0 +1,9 @@
+name: "White"
+belt_color: "white"
+requirements:
+  - id: w1
+    title: "Basic stances"
+    description: "Zenkutsu-dachi, kokutsu-dachi, kiba-dachi — demonstrate and hold each for 30s"
+    type: technique
+    references:
+      - kata: "Heian Shodan"
